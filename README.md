@@ -1,4 +1,3 @@
-# ![Property Management Logo](https://i.postimg.cc/mkTMq3CH/db-management-sys-1170x658.png)
 <p align="center">
   <img src="https://i.postimg.cc/mkTMq3CH/db-management-sys-1170x658.png" alt="Property Management Logo" width="600">
 </p>
