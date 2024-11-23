@@ -1,5 +1,11 @@
 # ![Property Management Logo](https://via.placeholder.com/150?text=Property+Management)  
 
+<p align="center">
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker Logo" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" height="50">
+</p>
+
 [![Docker](https://img.shields.io/badge/docker-v24.0.0-blue?logo=docker)](https://www.docker.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-v16.4-blue?logo=postgresql)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)](https://www.python.org/)
