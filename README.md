@@ -1,20 +1,19 @@
 # ![Property Management Logo](https://i.postimg.cc/mkTMq3CH/db-management-sys-1170x658.png)
-
 <p align="center">
   <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/docker-v24.0.0-blue?logo=docker" alt="Docker Badge" style="background-color: #03fc6b;">
+    <img src="https://img.shields.io/badge/docker-v24.0.0-blue?logo=docker" alt="Docker Badge">
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/postgresql-v16.4-blue?logo=postgresql" alt="PostgreSQL Badge" style="background-color: lavender;">
+    <img src="https://img.shields.io/badge/postgresql-v16.4-blue?logo=postgresql" alt="PostgreSQL Badge">
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-3.10%2B-blue?logo=python" alt="Python Badge" style="background-color: fuchsia;">
+    <img src="https://img.shields.io/badge/python-3.10%2B-blue?logo=python" alt="Python Badge">
   </a>
   <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-green" alt="License Badge" style="background-color: orange;">
+    <img src="https://img.shields.io/badge/license-MIT-green" alt="License Badge">
   </a>
   <a href="https://github.com/your-repo/property_management/actions">
-    <img src="https://img.shields.io/badge/build-passing-brightgreen?logo=github" alt="Build Status Badge" style="background-color: springgreen;">
+    <img src="https://img.shields.io/badge/build-passing-brightgreen?logo=github" alt="Build Status Badge">
   </a>
 </p>
 
