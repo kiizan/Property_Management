@@ -43,7 +43,7 @@ This project involves creating a Dockerized PostgreSQL database to manage real e
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License page](https://opensource.org/licenses/MIT).
 
 ```sql
 This README includes the image at the top, badge links for Docker, PostgreSQL, Python, and other relevant sections, along with setup instructions and license information—all in one file for clarity and convenience.
