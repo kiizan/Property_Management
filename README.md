@@ -1,4 +1,4 @@
-# ![Property Management Logo]([https://i.postimg.cc/mkTMq3CH/db-management-sys-1170x658.png))  
+# ![Property Management Logo](https://i.postimg.cc/mkTMq3CH/db-management-sys-1170x658.png)
 
 <p align="center">
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker Logo" height="50">
@@ -35,14 +35,15 @@ This project involves creating a Dockerized PostgreSQL database to manage real e
    ```bash
    git clone https://github.com/your-repo/property_management.git
    cd property_management
-   ```
 2. Build and run the Docker containers:
-   ```bash
-   docker-compose up --build
-   ```
+    ```bash
+    docker-compose up --build
+
 3. Access the PostgreSQL database using a tool like pgAdmin or through Python scripts.
 
----
-
 ### License
-This project is licensed under the [MIT License](./LICENSE).
+
+This project is licensed under the MIT License.
+
+```sql
+This README includes the image at the top, badge links for Docker, PostgreSQL, Python, and other relevant sections, along with setup instructions and license information—all in one file for clarity and convenience.
