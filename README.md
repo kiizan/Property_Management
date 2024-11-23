@@ -18,19 +18,19 @@
 
 This project involves creating a Dockerized PostgreSQL database to manage real estate listings. It stores property details, owner and tenant information, and their relationships. The system optimizes data handling, supports scalable queries, and enables efficient property search and reporting, all within a portable Docker environment.
 
-### Features
+### 🚀 Features
 - **Dockerized Database**: Ensures portability and easy setup.
 - **Scalable Query Support**: Handles complex real estate data relationships.
 - **Efficient Search & Reporting**: Enables property search and detailed reporting.
 
-### Technologies Used
-- **Docker**: For containerization.
-- **PostgreSQL**: As the primary database system.
-- **Python**: For scripting and SQLAlchemy for ORM.
+### ⚙️ Technologies Used
+- **Docker** 🐋: For containerization.
+- **PostgreSQL** 🐘: As the primary database system.
+- **Python** 🐍: For scripting and SQLAlchemy for ORM.
 
 ---
 
-### Getting Started
+### 🏁 Getting Started
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/property_management.git
@@ -41,7 +41,7 @@ This project involves creating a Dockerized PostgreSQL database to manage real e
 
 3. Access the PostgreSQL database using a tool like pgAdmin or through Python scripts.
 
-### License
+### 📝 License
 
 This project is licensed under the [MIT License page](https://opensource.org/licenses/MIT).
 
