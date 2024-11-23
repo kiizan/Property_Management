@@ -5,12 +5,23 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" height="50">
 </p>
-
-[![Docker](https://img.shields.io/badge/docker-v24.0.0-blue?logo=docker)](https://www.docker.com/)
-[![PostgreSQL](https://img.shields.io/badge/postgresql-v16.4-blue?logo=postgresql)](https://www.postgresql.org/)
-[![Python](https://seeklogo.com/vector-logo/273830/python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?logo=github)](https://github.com/your-repo/property_management/actions)
+<p align="center">
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/docker-v24.0.0-blue?logo=docker" alt="Docker Badge" style="background-color: springgreen;">
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/postgresql-v16.4-blue?logo=postgresql" alt="PostgreSQL Badge" style="background-color: lavender;">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3.10%2B-blue?logo=python" alt="Python Badge" style="background-color: fuchsia;">
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green" alt="License Badge" style="background-color: orange;">
+  </a>
+  <a href="https://github.com/your-repo/property_management/actions">
+    <img src="https://img.shields.io/badge/build-passing-brightgreen?logo=github" alt="Build Status Badge" style="background-color: springgreen;">
+  </a>
+</p>
 
 ---
 
