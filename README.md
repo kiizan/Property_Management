@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/docker-v24.0.0-blue?logo=docker" alt="Docker Badge" style="background-color: springgreen;">
+    <img src="https://img.shields.io/badge/docker-v24.0.0-blue?logo=docker" alt="Docker Badge" style="background-color: #03fc6b;">
   </a>
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/postgresql-v16.4-blue?logo=postgresql" alt="PostgreSQL Badge" style="background-color: lavender;">
