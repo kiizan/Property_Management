@@ -39,15 +39,17 @@ This project involves creating a Dockerized PostgreSQL database to manage real e
 
 ### 🏁 Getting Started
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/kiizan/property_management.git
    cd property_management
 
-2. Build and run the Docker containers:
-    ```bash
+3. Build and run the Docker containers:
+
+   ```bash
     docker-compose up --build
 
-3. Access the PostgreSQL database using a tool like pgAdmin or through Python scripts.
+5. Access the PostgreSQL database using a tool like pgAdmin or through Python scripts.
 
 ### 📝 License
 
